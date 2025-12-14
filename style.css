@@ -1,0 +1,150 @@
+
+
+body{
+    background-color: rgba(253, 249, 249, 0.959);
+}
+#nav{
+    background-color:rgb(29, 24, 88);
+    text-align: center;
+    padding: 15px;
+    border-radius: 30px;
+    width: 1320px;
+    position:fixed;
+}
+#nav-1 a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 16px;
+
+}
+#nav-1{
+    margin-top: 1px;
+    background-color:rgb(14, 29, 73);
+    text-align: center;
+    padding: 15px;
+    border-radius: 30px;
+    width: 1320px;
+    position: sticky;
+   top: 0;
+   z-index: 1000;  
+
+}
+
+
+
+#nav a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 16px;
+
+    
+}
+header{ 
+    border-radius: 20px;
+    color: white;
+    background-color:rgb(14, 29, 73); 
+    margin-top: 30px;
+    width: 80;
+    height: 50;
+    text-align: center;
+ 
+    padding: 50px;
+}
+footer{
+    text-align: center;
+}
+#first{
+    text-align: center;
+    
+}
+#first img{
+    border-radius: 50%;
+}
+#About{
+    margin-top: 80px;
+    border-radius: 20px;
+    background-color: white;
+     width: 80;
+    height: 70;
+    text-decoration: none;
+    padding: 20px;
+}
+
+ #first{
+    text-align: center;
+    
+}
+#first img{
+    border-radius: 50%;
+}
+    #abt{
+    text-align: center;
+    }
+    #p1{
+    border-radius: 20px;
+    background-color: rgba(202, 201, 125, 0.726);
+    color: black;
+     width: 80;
+    height: 70;
+    padding: 20px;
+    font-size: 18px;
+    }
+   
+
+#skills{
+    margin-top: 80px;
+    border-radius: 20px;
+    background-color: rgba(202, 201, 125, 0.726);
+     width: 80;
+    height: 70;
+    padding: 20px;
+}
+
+#project{
+    margin-top: 80px;
+    #prj1{
+    border-radius: 20px;
+    background-color: rgba(202, 201, 125, 0.726);
+     width: 80;
+    height: 70;
+    padding: 20px;}
+    #prj2{
+    border-radius: 20px;
+    background-color: rgba(202, 201, 125, 0.726);
+     width: 80;
+    height: 70;
+    padding: 20px;}
+    #prj3{
+    border-radius: 20px;
+    background-color: rgba(202, 201, 125, 0.726);
+     width: 80;
+    height: 70;
+    padding: 20px;}
+
+
+}
+#con1{
+  margin-top: 80px;
+  margin-left: 400px;
+  margin-right: 400px;
+    border-radius: 20px;
+    background-color: rgba(202, 201, 125, 0.726);
+     width: 40;
+    height: 70;
+    padding: 20px;
+}
+
+
+
+
+    
